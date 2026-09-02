@@ -1,0 +1,6 @@
+{
+  "name": "Accessible Polar Chart Lens Zoom",
+  "description": "Interactive accessible polar chart featuring smooth lens-like magnification zoom, fisheye sector expansion, and detailed tooltip hover inspections for dense datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
